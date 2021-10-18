@@ -17,18 +17,13 @@ h1 {
 h2 {
   color: #7ECE90;
   font-size: 20px;
-  font-weight: lighter;
   font-weight: 500;
 }
 a {
   font-family: 'Roboto', sans-serif;
   text-decoration: none;
-  color: #6B72E1;
   font-weight: 600;
   font-size: 16px;
-}
-a:hover {
-  color: black;
 }
 
 /* Custom design with class (99% of your design) */
@@ -45,6 +40,7 @@ a:hover {
   margin: 20px 0px;
   text-align: center;
 }
+
 .img-circle {
   border-radius: 50%;
   width: 100px;
@@ -56,6 +52,7 @@ a:hover {
   padding: 15px 20px;
   border-radius: 4px;
 }
+
 .btn-blue:hover {
   background-color: black;
   color: white;
